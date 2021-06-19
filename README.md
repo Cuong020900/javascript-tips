@@ -13,6 +13,7 @@
 - [Destructuring](#destructuring)
 - [Operator](#operator)
 - [Comparison](#comparison)
+- [JS ES6-11](#jsecma)
 - [Others](#others)
 
 <!-- Tips for array -->
@@ -735,7 +736,8 @@ console.log(typeof num); // ❗ "string"
 	
 	
 	
-	
+
+# JSECMA
 # Tính năng nổi bật từ ES2015(ES6) ======-> nay
 
 ## ES 2015 (ES6)
